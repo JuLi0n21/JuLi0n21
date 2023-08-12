@@ -21,12 +21,16 @@
 ### Projects
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=juli0n21&repo=ComputerGrafik&show_icons=true&theme=dark)
+
 ![CodeFactor](https://www.codefactor.io/repository/github/juli0n21/ComputerGrafik/badge) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JuLi0n21_ComputerGrafik&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=JuLi0n21_ComputerGrafik)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=juli0n21&repo=Mandelbrot&show_icons=true&theme=dark)
+
 ![CodeFactor](https://www.codefactor.io/repository/github/juli0n21/Mandelbrot/badge) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JuLi0n21_Mandelbrot&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=JuLi0n21_Mandelbrot)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=juli0n21&repo=FPR-Klausur&show_icons=true&theme=dark)
 ![CodeFactor](https://www.codefactor.io/repository/github/juli0n21/FPR-Klausur/badge) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JuLi0n21_ComputerGrafik&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=JuLi0n21_ComputerGrafik)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=juli0n21&repo=INA-Klausur&show_icons=true&theme=dark)
+
 ![CodeFactor](https://www.codefactor.io/repository/github/juli0n21/INA-Klausur/badge) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JuLi0n21_ComputerGrafik&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=JuLi0n21_ComputerGrafik)
