@@ -48,5 +48,5 @@
 </details>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8');]{x0000}$}
+\ce{$\unicode[goombafont; filter: invert(100%); color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.playboard.app%2Fp%2F4604c17bbcc2cba9674cb68a1937ac6d%2Fdefault.jpg&f=1&nofb=1&ipt=5c652d89d70993ec74960e288a4a942e1a72f5dc12121075150e7d287d7a15d7&ipo=images');]{x0000}$}
 
