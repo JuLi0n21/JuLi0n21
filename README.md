@@ -9,7 +9,7 @@
 
 | Programming | Web | Tools | Databases |
 |---|---|---|---|
-| ![Java](https://img.shields.io/badge/-Java-orange?logo=java) ![Java](https://img.shields.io/badge/-Go-blue?logo=golang) ![C#](https://img.shields.io/badge/-Csharp-blue?logo=c-sharp) | ![HTML](https://img.shields.io/badge/-HTML-red?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) | ![Git](https://img.shields.io/badge/-Git-black?logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code) ![Nvim](https://img.shields.io/badge/-Nvim-green?logo=nvim) | ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql) ![Sqlite](https://img.shields.io/badge/-Sqlite-pink?logo=sqlite)|
+| ![Java](https://img.shields.io/badge/-Java-orange?logo=java) ![Java](https://img.shields.io/badge/-Go-blue?logo=golang) ![C#](https://img.shields.io/badge/-Csharp-green?logo=c-sharp) | ![HTML](https://img.shields.io/badge/-HTML-red?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) | ![Git](https://img.shields.io/badge/-Git-black?logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code) ![Nvim](https://img.shields.io/badge/-Nvim-green?logo=nvim) | ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql) ![Sqlite](https://img.shields.io/badge/-Sqlite-pink?logo=sqlite)|
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juli0n21&layout=compact)
 
@@ -46,8 +46,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=juli0n21)
 
 </details>
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/JuLi0n21/JuLi0n21/main/image-28%5B1%5D');]{x0000}$}
-
 
