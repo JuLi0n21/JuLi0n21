@@ -13,10 +13,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juli0n21&layout=compact)
 
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourusername/)
-
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juli0n21&show_icons=true&theme=dark)
 
