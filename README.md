@@ -17,9 +17,7 @@
 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3) | ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white) | ![Sqlite](https://img.shields.io/badge/-Sqlite-pink?logo=sqlite) |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=javascript&logoColor=black) | ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white) [🔧📋](https://github.com/juli0n21/kickstart.nvim) |  | 
 
-| | |
-|--|--|
-|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juli0n21&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juli0n21&layout=compact) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juli0n21&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juli0n21&layout=compact)
 
 </div>
 
