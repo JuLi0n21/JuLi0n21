@@ -17,13 +17,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juli0n21&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juli0n21&layout=compact)
 
 </div>
-
-<details>
-<summary>Filian</summary>
-
-**[Filian](https://twitch.tv/filian)**
-
-![the better editor](https://cdn.discordapp.com/attachments/1006117227617058832/1287078586326581321/filian_tv.jpg?ex=66f03cd7&is=66eeeb57&hm=88e7b32cb636bd3c365f39973568d3f3fe093b3cdc1739f0ea2e687995d0a6af&)
-![Filian](filian.png)
-
-</details>
